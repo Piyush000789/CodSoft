@@ -9,4 +9,4 @@
                 I used javascript to perform the sum of numbers.
    
 3. PortFolio : To make portfolio i used html ad css.
-               In portfolio, there are header, navigation bar, section for content, footer, image and social media links.
+               In portfolio, there are header, navigation bar, section for content related to resume, footer, image and social media links.
