@@ -1,0 +1,48 @@
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+  
+h2{
+  text-align: center;
+  text-decoration: underline;
+}
+.calculator {
+  background-color: rgb(31, 37, 203);
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  border: solid 1px #ccc;
+  border-radius: 10px;
+  margin-top: 40px;
+}
+
+/* Display */
+#result{
+  background-color: rgb(169, 218, 211);
+  width: 380px;
+  padding: 10px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Buttons */
+.buttons{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 10px;
+  margin-top: 20px;
+}
+  
+button{
+  padding: 10px;
+  font-size: 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+span{
+  margin-left: 45%;
+}

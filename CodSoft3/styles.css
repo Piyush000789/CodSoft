@@ -1,0 +1,119 @@
+.body {
+    background-image: url(https://img.freepik.com/premium-photo/nature-blue-rough-abstract-background-design_851755-193558.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Header */
+header {
+    width: 95%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1 {
+    font-size: 2.2em;
+    color: #2a93e8;
+}
+
+/* Navigation */
+.navigation a {
+    font-size: 1.2em;
+    color: gray;
+    text-decoration: none;
+    margin-right: 40px;
+    transition: .3s;
+}
+.navigation a:hover {
+    color: #2a93e8;
+    font-size: 1.4rem;
+}
+.talk {
+    color: white;
+    text-decoration: none;
+    padding: 10px 35px;
+    background: #2a93e8;
+    border-radius: 10px;
+    border: 2px solid #2a93e8;
+    transition: .3s;
+}
+.talk:hover {
+    color: #2a93e8;
+    background: transparent;
+}
+
+/* Section */
+.home {
+    width: 85%;
+    height: 400px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    box-shadow: 5px 5px 5px 5px;
+}
+.content {
+    max-width: 500px;
+    color: gray;
+}
+.content h1 {
+    color: gray;
+    font-size: 3em;
+}
+.content h1 span {
+    color: #2a93e8;
+}
+.content h2 {
+    font-size: 2em;
+}
+.content p {
+    font-size: 1.2rem;
+}
+
+/* Buttons */
+.btn a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    background: #2a93e8;
+    border-radius: 10px;
+    border: 2px solid #2a93e8;
+    transition: .3s;
+}
+.btn a:hover{
+    color: #2a93e8;
+    background: transparent;
+}
+
+/* Image */
+.image{
+    margin-left: 350px;
+}
+.image img{
+    width: 400px;
+    height: auto;
+    border: 2px solid #2a93e8;
+    border-radius: 10px;
+}
+
+/* Footer */
+.links{
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.links a {
+    font-size: 1.4rem;
+    color: white;
+    background-color: #2a93e8;
+    border-radius: 50%;
+    margin-right: 25px;
+    text-align: center;
+    transition: .3s;
+}
+.links a:hover {
+    color: #2a93e8;
+    font-size: 1.6rem;
+    background: transparent;
+}
