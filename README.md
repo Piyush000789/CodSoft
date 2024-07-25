@@ -1,6 +1,6 @@
 # CodSoft
 # Web Development
-# Tasks of Level 1-> 
+# Tasks of Level 1->
 1. Landing page : To make the landing page i used html and css and topic i used is nature.
                   In landing page, there is navigation bar, social media links, content related to nature and its protection.
 
